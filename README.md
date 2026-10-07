@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Andres Diaz (@AndresStw)
 
-🎮 Game Dev @ Axion Studios | C# · Unity · Unreal · Blender · Java · JS | Turning ideas into games & apps 🚀
+🎮 Founder & Game Developer at **Axion Studios** — turning ideas into games and apps.
 
 ---
 
@@ -29,3 +29,28 @@
 - 💭 Turn ideas → real projects 🚀
 
 **🎯 Goal:** keep creating, learning, and sharing what we build at Axion Studios.
+
+---
+
+## 🚀 Let's Build Something Together!
+
+I'm building a **team at Axion Studios** to start a new project **from scratch** 🎮  
+If you love creating games, apps, or 3D art — you're welcome here.
+
+**🔍 I'm looking for collaborators in:**
+- 💻 **Programmers** — C#, Java, JavaScript
+- 🎨 **3D Artists** — Blender, modeling, animation
+- 🎮 **Game Designers** — Unity / Unreal Engine
+- 🌐 **Web Devs** — HTML, CSS, frontend
+- 🎵 **Sound / Music** (bonus!)
+- 🧠 **Idea makers** — people who love to create
+
+**📌 What we'll do:**
+- Build a project from zero — from idea to playable
+- Collaborate, learn, and grow together
+- Ship something real 🚀
+
+**💬 Want in?**  
+Open an issue, send a DM, or reach me at: **[your email / Discord / X]**
+
+> *No importa tu nivel — lo que importa son las ganas de crear.* 🔥
