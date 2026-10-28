@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Andres Diaz (@AndresStw)
 
-🎮 **Founder & Game Developer at Axion Studios**
+🎮 **Game Developer · Aspiring to build Axion Studios**
 💻 Software Developer · Game Development · Web Applications
 
 I build games, applications and experimental projects while learning, improving and turning ideas into real products.
@@ -11,11 +11,19 @@ I build games, applications and experimental projects while learning, improving 
 
 I'm a software developer focused on **game development and interactive applications**.
 
-At **Axion Studios**, I'm currently exploring game development with Unity and Unreal Engine while also building web applications and experimenting with new technologies.
+I'm currently exploring game development with Unity and Unreal Engine while also building web applications and experimenting with new technologies. My dream is to form **Axion Studios**, an indie team that builds games and real projects together.
 
 My goal is simple:
 
 > **Turn ideas into playable games, useful applications and real projects.** 🎮🚀
+
+---
+
+## 🏆 Recognition
+
+📚 **[Diccionario-Dev](https://github.com/AndresStw/Diccionario-Dev)** was selected and included in the **[XERJ Corpus Hub](https://hub.xerj.org/contributors/AndresStw)**, an open index of code solutions that AI coding agents consult as a reference.
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/AndresStw/badge.svg)](https://hub.xerj.org/contributors/AndresStw)
 
 ---
 
@@ -54,7 +62,7 @@ These are some of the projects I'm currently building and experimenting with.
 
 **Game Development · Unity · C#**
 
-An ambitious game project developed under **Axion Studios**, focused on gameplay systems, combat mechanics, AI and interactive game experiences.
+An ambitious game project, the first step toward the future **Axion Studios**, focused on gameplay systems, combat mechanics, AI and interactive game experiences.
 
 🔗 **Repository:** [Axion-Heroes](https://github.com/AndresStw/Axion-Heroes)
 
@@ -64,125 +72,4 @@ An ambitious game project developed under **Axion Studios**, focused on gameplay
 
 **Psychological Horror · Unity · C#**
 
-A psychological horror game project focused on atmosphere, gameplay systems and creating an unsettling player experience.
-
-🔗 **Repository:** [Subject-04](https://github.com/AndresStw/Subject-04)
-
----
-
-### 🌐 Nook
-
-**Web Application · JavaScript · React · Supabase**
-
-A web application I'm developing as part of my software development journey.
-
-Nook is focused on connecting users through a modern web experience while exploring authentication, databases, real-time functionality and modern application architecture.
-
-🔗 **Repository:** [Nook](https://github.com/AndresStw/Nook_v1.0)
-
----
-
-# 🤝 Looking for Collaborators
-
-## 🚀 Let's Build Something Together
-
-I'm currently looking for people who want to **build something from scratch with Axion Studios**.
-
-The idea isn't just to contribute code to an existing project.
-
-**I want to build a team, choose an idea together and turn it into a real project.**
-
-Whether you're a programmer, artist, designer, musician or simply someone with great ideas, you're welcome.
-
-### 🔍 I'm looking for
-
-💻 **Programmers**
-C#, C++, Java, JavaScript, PHP
-
-🎮 **Game Developers**
-Unity / Unreal Engine
-
-🎨 **3D Artists**
-Blender, modeling, texturing, animation
-
-🎨 **Game Designers**
-Gameplay, mechanics, level design, balancing
-
-🎵 **Music & Sound Designers**
-Music, sound effects and atmosphere
-
-🌐 **Web Developers**
-React, JavaScript, HTML, CSS, Supabase
-
-💡 **Creative People**
-Ideas, storytelling, worldbuilding and anything that can help create something interesting.
-
----
-
-## 🧩 What We Want To Build
-
-The goal is to start a project **from zero**:
-
-```text
-💡 Idea
-   ↓
-📝 Design
-   ↓
-🎨 Art & Development
-   ↓
-🧪 Prototype
-   ↓
-🎮 Playable Build
-   ↓
-🚀 Release
-```
-
-Everyone can contribute, learn and grow throughout the process.
-
-The project doesn't have to be a massive AAA game.
-
-**It just needs to be something we're proud to build together.**
-
----
-
-# 🌟 Who Can Join?
-
-You **don't need to be an expert**.
-
-If you're learning Unity, programming, Blender, music, game design or web development and you want real project experience, you can still be part of the team.
-
-What matters most is:
-
-**🔥 Motivation
-🤝 Communication
-💡 Creativity
-📚 Willingness to learn
-🚀 Actually building things**
-
----
-
-# 📬 Interested?
-
-If you'd like to collaborate with **Axion Studios**, feel free to reach out.
-
-**GitHub:** [@AndresStw](https://github.com/AndresStw)
-
-💬 Open an issue on one of the projects or contact me directly.
-
-> **No importa tu nivel. Lo importante son las ganas de crear.** 🔥
-
----
-
-## 🎯 Current Focus
-
-🎮 Game Development
-🤖 Game AI
-🌐 Web Applications
-🧠 Learning & Experimentation
-🤝 Building a Development Team
-
----
-
-### 🚀 Axion Studios
-
-**Ideas → Code → Games → Real Projects**
+A psychological horror game project focused on atmosphere,
