@@ -1,5 +1,8 @@
 # 👋 Hey, I'm KL- (@AndresStw)
 
+
+![GitHub Snake](https://raw.githubusercontent.com/AndresStw/AndresStw/output/github-contribution-grid-snake.svg)
+
 🎮 **Game Developer · Aspiring to build Axion Studios**
 💻 Software Developer · Game Development · Web Applications
 
