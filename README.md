@@ -122,16 +122,20 @@ A structured project containing notes, examples, exercises, and quick references
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresStw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndresStw&theme=tokyonight" alt="GitHub profile summary" />
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndresStw&theme=tokyonight" alt="GitHub statistics" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndresStw&theme=tokyonight" alt="Repositories by language" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresStw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/AndresStw?tab=repositories">Explore all my repositories →</a>
+</p>
 ---
 
 ## 📫 Connect
